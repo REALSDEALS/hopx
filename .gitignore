@@ -1,0 +1,22 @@
+# .gitignore | HOPX Distro
+
+# Build Directories
+out/
+work/
+cache/
+*.iso
+*.squashfs
+*.tar.gz
+*.xz
+*.pkg.tar.zst
+
+# Logs and databases
+*.log
+*.tmp
+*.lock
+*.bak
+*~ 
+
+# System files
+.DS_Store
+Thumbs.db
