@@ -1,0 +1,89 @@
+# HOPX Distro - Packages List
+# Architecture: x86_64
+
+## CORE ##
+base
+linux
+linux-firmware
+systemd
+grub
+bash
+zsh
+sudo
+
+## Filesystems & Shell ##
+coreutils
+sed
+grep
+less
+gzip
+tar
+vim
+nano
+
+## Network ##
+networkmanager
+openssh
+wget
+curl
+inetutils
+iproute2
+iputils
+dnsutils
+
+## Desktop Enviroment & Related Tools
+xfce4
+xfce4-goodies
+lightdm
+lightdm-gtk-greeter
+mesa
+xorg-server
+xorg-xinit
+alsa-utils
+pulseaudio
+network-manager-applet
+
+## Development ##
+base-devel
+git
+gcc
+make
+cmake
+pkgconf
+docker
+docker-compose-plugin
+podman
+nodejs
+npm
+python
+python-pip
+go
+rust
+clang
+lld
+gdb
+valgrind
+git-lfs
+fzf
+ripgrep
+
+## Utils ##
+btop
+tmux
+jq
+lsof
+which
+man-db
+man-pages
+neofetch
+
+## Extras ##
+reflector
+lesspipe
+tree
+zip
+unzip
+dosfstools
+parted
+rsync
+efibootmgr
