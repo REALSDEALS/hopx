@@ -5,6 +5,7 @@
 base
 linux
 linux-firmware
+syslinux
 systemd
 grub
 bash
@@ -13,6 +14,7 @@ sudo
 
 ## Filesystems & Shell ##
 coreutils
+edk2-shell
 sed
 grep
 less

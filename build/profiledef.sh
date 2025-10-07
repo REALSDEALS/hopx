@@ -20,7 +20,7 @@ install_dir="arch"
 build_modes=('iso')
 
 # Boot Mode
-bootmodes=('bios.syslinux.mbr' 'uefi-x64.systemd-boot.esp')
+bootmodes=('bios.syslinux' 'uefi-x64.systemd-boot')
 
 # Pacman Configuration
 pacman_conf="pacman.conf"
