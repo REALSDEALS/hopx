@@ -1,0 +1,16 @@
+#!/bin/bash
+clear
+echo "========================================"
+echo "        Welcome to HOPX Linux!"
+echo "========================================"
+echo ""
+echo "HOPX is a lightweight Linux distribution based on Arch Linux, designed for developers and enthusiasts."
+echo ""
+echo "You can start the XFCE desktop environment by typing:"
+echo "  startxfce4"
+echo ""
+echo "For documentation and support, visit:"
+echo "  https://github.com/REALSDEALS/hopx"
+echo "----------------------------------------"
+echo "Have a good time and every feedback is welcome!"
+echo ""
