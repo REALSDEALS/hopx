@@ -18,7 +18,7 @@ echo "Starting the HOPX Linux ISO build process..."
 mkdir -p "$OUTPUT_DIR"
 
 # Building with Archiso
-sudo mkarchiso -v -w "$WORK_DIR" -o "$OUTPUT_DIR" build
+sudo mkarchiso -v -w "$WORK_DIR" -o "$OUTPUT_DIR" .
 
 # End Message
 echo "HOPX Linux ISO build process has been completed."
